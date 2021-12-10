@@ -1,0 +1,13 @@
+[remap]
+
+importer="image"
+type="Image"
+path="res://.import/counter.png-fc69dc402c0789279da32a04307ed977.image"
+
+[deps]
+
+source_file="res://assets/counter.png"
+dest_files=[ "res://.import/counter.png-fc69dc402c0789279da32a04307ed977.image" ]
+
+[params]
+
